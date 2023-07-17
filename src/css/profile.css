@@ -1,0 +1,14 @@
+.profile-img {
+    width: 100%;
+    -webkit-box-shadow: 10px 10px 24px 4px rgba(224,224,224,1);
+    -moz-box-shadow: 10px 10px 24px 4px rgba(224,224,224,1);
+    box-shadow: 10px 10px 24px 4px rgba(224,224,224,1);
+}
+
+.profile-img:hover {
+    opacity: .9;
+}
+
+.profile-description {
+    margin-bottom: 40px;
+}

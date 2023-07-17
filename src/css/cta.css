@@ -1,0 +1,6 @@
+.section-cta {
+    padding: 75px 0;
+    background-image: url('../../public/img/cta/1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
