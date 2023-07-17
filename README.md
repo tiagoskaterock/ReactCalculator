@@ -1,7 +1,17 @@
 # Calculator in React
 
-I run this project using **npm start** on Linux Ubuntu 22.04
+Download the .zip and unziped it or clone the project
 
-The Class is here: [The Perfect Beginner React Project](https://www.youtube.com/watch?v=DgRrrOt0Vr8) 
+**cd ReactCalculator**
+
+**npm start**
+
+I made a folder _src/calculator_ and another _public/calculator_
+
+So, if you want, you can just use the component <Calculator /> in your own projects.
+
+Any feedback or suggestion will be appreciated. ^^
+
+The Class is here: [The Perfect Beginner React Project](https://www.youtube.com/watch?v=DgRrrOt0Vr8)
 
 ![Calculator](public/calculator/1.png)
