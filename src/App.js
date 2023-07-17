@@ -1,9 +1,8 @@
+import Calculator from "./calculator/components/Calculator";
+
 function App() {
   return (
-    <div>
-      <h1 className="text-center py-5">React Calculator</h1>
-      
-    </div>
+    <Calculator />
   );
 }
 
