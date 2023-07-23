@@ -1,17 +1,30 @@
-# Calculator in React
+<h1 align="center">React Calculator</h1>
 
-Download the .zip and unziped it or clone the project
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+  </a>
+</p>
 
-**cd ReactCalculator**
+<p align="center">Download the .zip and unziped it or clone the project</p>
 
-**npm start**
+<p align="center">cd ReactCalculator</p>
 
-I made a folder _src/calculator_ and another _public/calculator_
+<p align="center">npm start</p>
 
-So, if you want, you can just use the component <Calculator /> in your own projects.
+<p align="center">I made a folder _src/calculator_ and another _public/calculator_</p>
 
-Any feedback or suggestion will be appreciated. ^^
+<p align="center">So, if you want, you can just use the component <Calculator /> in your own projects.</p>
 
-The Class is here: [The Perfect Beginner React Project](https://www.youtube.com/watch?v=DgRrrOt0Vr8)
+<p align="center">Any feedback or suggestion will be appreciated. ^^</p>
 
-![Calculator](public/calculator/1.png)
+<p align="center">
+    The Class is here:
+    <a href="https://www.youtube.com/watch?v=DgRrrOt0Vr8">
+        The Perfect Beginner React Project
+    </a>
+</p>
+
+<p align="center">
+    <img src="public/calculator/1.gif" alt="React Calculator" />
+</p>
